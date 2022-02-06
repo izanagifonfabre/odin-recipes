@@ -1,0 +1,29 @@
+*{
+    background-color: #B8D4E3;
+}
+
+.portada-home{
+    height: 45vh;
+    width: 35vw;
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+.titulo{
+    color: chocolate;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}

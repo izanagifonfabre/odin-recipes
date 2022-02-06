@@ -1,0 +1,25 @@
+*{
+    background-color: #B8D4E3;
+}
+
+.titulo{
+    color: chocolate;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.foto-receta{
+    display: block;
+    margin: auto;
+    height: 45vh;
+    width: 35vw;
+}
+
+.subtitulo{
+    color:#66101F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
