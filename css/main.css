@@ -2,6 +2,10 @@
     background-color: #B8D4E3;
 }
 
+ul{
+    list-style: none;
+}
+
 .portada-home{
     height: 45vh;
     width: 35vw;
